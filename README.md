@@ -9,7 +9,7 @@ ___
 <br/>
  
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/27750907/72926506-c0521580-3d7e-11ea-85af-2920e793e70f.png">
+  <img src="https://user-images.githubusercontent.com/27750907/72926947-7c134500-3d7f-11ea-80fe-87ae749aeef6.png">
 </p>
 
 <br/>
