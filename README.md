@@ -1,14 +1,19 @@
 # BigNum.gml
 ### @sohomsahaun
-
+Quick links: <a href="https://sohomsahaun.itch.io/bignumgml">itch</a>
+___
 
 **BigNum.gml** is a big number library for GameMaker. If you want to handle large numbers beyong the regular range of integers/floats, you are in the right place. *(Integer-only for now)*
- 
+
+<br/>
+<br/>
  
  <p align="center">
-  <img src="https://user-images.githubusercontent.com/27750907/72893300-e2c63d80-3d42-11ea-9fed-f4057d1f45c9.png">
+  <img src="https://user-images.githubusercontent.com/27750907/72926506-c0521580-3d7e-11ea-85af-2920e793e70f.png">
 </p>
 
+<br/>
+<br/>
 
 **List of available functions:**
 
