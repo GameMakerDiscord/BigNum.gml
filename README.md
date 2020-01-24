@@ -3,7 +3,7 @@
 Quick links: <a href="https://sohomsahaun.itch.io/bignumgml">itch</a>
 ___
 
-**BigNum.gml** is a big number library for GameMaker. If you want to handle large numbers beyong the regular range of integers/floats, you are in the right place. *(Integer-only for now)*
+**BigNum.gml** is a big number library for GameMaker. If you want to handle large numbers beyond the regular range of integers/floats, you are in the right place. *(Integer-only for now)*
 
 <br/>
 <br/>
