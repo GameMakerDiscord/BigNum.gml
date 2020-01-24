@@ -7,7 +7,7 @@
     "option_ios_bundle_name": "com.company.game",
     "option_ios_defer_home_indicator": false,
     "option_ios_devices": 2,
-    "option_ios_display_name": "Made in GameMaker Studio 2",
+    "option_ios_display_name": "BigNum",
     "option_ios_facebook_app_display_name": "",
     "option_ios_facebook_id": "",
     "option_ios_half_ipad1_textures": false,
