@@ -22,7 +22,7 @@ if (nb) b = -b;
 la = string_length(a);
 while (i++ < la) {
 	dvd = (dvd*10 + real(string_char_at(a, i)));
-	if (dvd >= b) {
+	if ((dvd >= b) || !dvd) {
 		qnt += string(dvd div b);
 		dvd = dvd % b;
 	}
